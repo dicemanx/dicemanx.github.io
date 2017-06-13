@@ -17,7 +17,7 @@ This is a **curated list of curated lists** of helpful resources for early stage
 
 [Fundraising resources for Startups](https://www.deckrooster.com/fundraising-resources/){:target="_blank"} _by DeckRooster_  
 [List of angel investors active in India](/angel-investors){:target="_blank"} _by [Pracly](/index)_ [This list may not be exhaustive]  
-[List of investor firms active in India](investor-organizations){:target="_blank"} _by [Pracly](/index)_ [Updated bi-annually]
+[List of investor firms active in India](/investor-organizations){:target="_blank"} _by [Pracly](/index)_ [Updated bi-annually]
 
 ## Resources & Tools directories
 
