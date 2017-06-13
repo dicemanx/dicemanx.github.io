@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 
-[Home](/index) | [Contact](/contact)
+[Home](/index)
 
 
 
