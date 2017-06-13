@@ -41,4 +41,3 @@ This is a **curated list of curated lists** of helpful resources for early stage
 
 [List of co-working spaces](http://www.workspot.in/){:target="_blank"} _by Numetric Technologies_ [Updated fortnightly]
 
-Want your curated list to be listed on this page? [Contact Us](/contact)
