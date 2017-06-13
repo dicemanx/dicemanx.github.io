@@ -9,18 +9,19 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">Coming soon...</h2>
+  <body class="background">
+    <section>
+      <h1 class="project-name align-left">{{ site.title | default: site.github.repository_name }}
+      </h1>
+      <h1 class="project-name align-center">
+          We are rebuilding...
+      </h1>
+      <h2 class="project-tagline">Meanwhile check out these <a href="/resources">startup resources</a></h2>
     </section>
 
     <section class="main-content">
       {{ content }}
 
-      <footer class="site-footer">
-        FOOTER
-      </footer>
     </section>
 
     {% if site.google_analytics %}
